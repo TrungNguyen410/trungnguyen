@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("\n Than chao cac ban DA23TTA");
+	printf("\n Chao cac ban");
 
 return 0;
 
